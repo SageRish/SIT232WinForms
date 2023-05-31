@@ -16,3 +16,7 @@ https://github.com/SageRish/SIT232WinForms/assets/132047640/f2698bff-507e-4202-8
 ## How to Plan your Project
 
 https://github.com/SageRish/SIT232WinForms/assets/132047640/d9f012e8-880d-4b82-b9ef-625f1dd6c0ac
+
+
+## Learn more about Windows Form at:
+[Official Documentation of Windows Forms for .NET7](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-7.0)

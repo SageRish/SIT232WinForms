@@ -1,5 +1,5 @@
 # Introduction to WinForms
-Winforms are a useful tool for developing small Form-Based Applications that we use in our daily lives. This Module Introduces you to Creating a WinForms Project and Developing an Application
+Winforms are a useful tool for developing small Form-Based Applications that we use in our daily lives. This Module Introduces you to Creating a WinForms Project and Developing an Application that is useful in day to day life
 
 ## Intro and Creating a WinForms Project
 
